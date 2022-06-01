@@ -1,0 +1,24 @@
+{
+  "name": "refactorisation_tests-unitaires",
+  "version": "1.0.0",
+  "description": "Gilded Rose kata in Javascript with Jasmine",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilybache/GildedRose-Refactoring-Kata.git"
+  },
+  "keywords": [
+    "kata",
+    "refactor",
+    "gilded-rose"
+  ],
+  "license": "MIT",
+  "private": true,
+  "author": "",
+  "dependencies": {
+    "jasmine": "^4.1.0"
+  }
+}
